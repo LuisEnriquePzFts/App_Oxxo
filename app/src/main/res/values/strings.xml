@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">App_Oxxito</string>
+    <string name="lbl_registrar">Registrar</string>
+    <string name="lbl_iniciar">Iniciar Base de Datos</string>
+    <string name="lbl_baseDatos">Inicializar Base de Datos</string>
+    <string name="lbl_Registro">Registro</string>
+    <string name="lbl_codigo">Código:</string>
+    <string name="lbl_nombre">Nombre:</string>
+    <string name="lbl_precio">Precio:</string>
+    <string name="lbl_existencia">Existencia:</string>
+    <string name="lbl_fecha">Fecha de Caducidad:</string>
+    <string name="lbl_cancelar">Cancelar</string>
+    <string name="lbl_guardar">Guardar</string>
+    <string name="lbl_gestion">Gestión de Productos:</string>
+    <string name="lbl_actualizae">Actualizar</string>
+    <string name="lbl_eliminar">Eliminar</string>
+    <string name="lbl_nuevo">Nuevo Producto</string>
+    </resources>
